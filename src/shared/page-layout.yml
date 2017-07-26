@@ -1,0 +1,65 @@
+behindTheLaw:
+  - page: "the_thing_itself"
+    title: "The Thing Itself"
+    colour: 1
+
+  - page: "the_way_it_works"
+    title: "The Way It Works"
+    colour: 2
+
+  - page: "what_it_does"
+    title: "What It Does"
+    colour: 3
+
+  - page: "how_to_use_it"
+    title: "How To Use It"
+    colour: 4
+
+  - page: "treatment"
+    title: "Spiritual Mind Treatment"
+    colour: 5
+
+  - page: "mental_equivalents"
+    title: "Mental Equivalents"
+    colour: 6
+
+  - page: "faith_and_demonstrations"
+    title: "Faith and Demonstrations"
+    colour: 7
+
+  - page: "acknowledgements"
+    title: "Acknowledgements"
+    colour: 8
+
+fiveStepsOfTreatment:
+  - page: purpose
+    title: Purpose
+    colour: 1
+
+  - page: recognition
+    title: Recognition
+    colour: 2
+
+  - page: unification
+    title: Unification
+    colour: 3
+
+  - page: realization
+    title: Realization
+    colour: 4
+
+  - page: thanksgiving
+    title: Thanksgiving
+    colour: 5
+
+  - page: release
+    title: Release
+    colour: 6
+
+personalizeYourPower:
+ - page: personalize
+   title: Personalize Your Power
+
+treatment:
+- page: treatment
+  title: Treatment

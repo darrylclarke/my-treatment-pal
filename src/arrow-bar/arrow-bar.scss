@@ -1,0 +1,22 @@
+@import "../shared/variables";
+// @import "../shared/colours";
+
+.arrow-bar {
+  display: inline-block;
+  width: 100%;
+  margin: 20px 0;
+
+  &__left {
+    float: left;
+    // margin-left: 20px;
+  }
+
+  &__right {
+    float: right;
+    // margin-right: 20px;
+  }
+
+  &.reduced-margin {
+    margin: 5px 0;
+  }
+}

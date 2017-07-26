@@ -1,0 +1,20 @@
+{
+  "infoSection": [
+    {
+      "page": "first",
+      "colour": 1
+    },
+    {
+      "page": "beta",
+      "colour": 2
+    },
+    {
+      "page": "about",
+      "colour": 3
+    },
+    {
+      "page": "delta",
+      "colour": 5
+    }
+  ]
+}

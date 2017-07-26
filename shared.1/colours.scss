@@ -1,0 +1,14 @@
+@import "./variables";
+
+
+@for $i from 0 through 9 { 
+  .colour-preset-#{$i} {
+    background-color: nth($list,$i+1);
+  }
+}
+
+@for $i from 0 through 9 { 
+  .colour-preset-#{$i}.opaque {
+    background-color: rgba(nth($list,$i+1), $opacity-amount);
+  }
+}

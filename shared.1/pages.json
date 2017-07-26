@@ -1,0 +1,92 @@
+{
+  "the_thing_itself": [
+    {
+      "p": "It was the best of times"
+    },
+    {
+      "p": "It was the worst of times"
+    },
+    {
+      "h2": "A heading"
+    },
+    {
+      "p": "Wrap it up"
+    }
+  ],
+  "the_way_it_works": [
+    {
+      "p": "name should be something similar to"
+    },
+    {
+      "p": "Currently the Modify Account view is only available if the"
+    },
+    {
+      "h2": "Another heading"
+    },
+    {
+      "p": "Wrap it up"
+    }
+  ],
+  "what_it_does": [
+    {
+      "p": "declaration files for the library to provide rich Intellisense. Most common"
+    },
+    {
+      "p": "presence of a jsconfig.json file in a directory indicates that the directory is the root of a JavaScript project. jsconfig.json specifies the"
+    },
+    {
+      "h2": "JavaScript Project (jsconfig.json)"
+    },
+    {
+      "p": "If you are using Visual Studio Code 1.8+, you can alternately explicitly list packages to acquire type declaration files for in your jsconfig.json."
+    }
+  ],
+  "purpose": [
+    {
+      "p": "You need to have a purpose for your treatment.  It goes much better that way."
+    },
+    {
+      "p": "Blabba blabbalablblblalbj blab."
+    },
+    {
+      "p": "aldkfa;klfdja;kfdja sdfa jdfa; dkajsd;fkadfja"
+    },
+    {
+      "p": "kdkdk kjfs jskd flsjdkf sflksjf slkfdj sfdkkl lsdjfsk fsdjflskfds jsdlfks"
+    },
+    {
+      "h2": "kkdkdkdkslfkeieidkdk"
+    },
+    {
+      "p": "aldkfa;klfdja;kfdja sdfa jdfa; dkajsd;fkadfja"
+    },
+    {
+      "p": "kdkdk kjfs jskd flsjdkf sflksjf slkfdj sfdkkl lsdjfsk fsdjflskfds jsdlfks"
+    }
+  ],
+  "recognition": [
+    {
+      "p": "aldkfa;klfdja;kfdja sdfa jdfa; dkajsd;fkadfja"
+    },
+    {
+      "p": "kdkdk kjfs jskd flsjdkf sflksjf slkfdj sfdkkl lsdjfsk fsdjflskfds jsdlfks"
+    },
+    {
+      "h2": "kkdkdkdkslfkeieidkdk"
+    },
+    {
+      "p": "aldkfa;klfdja;kfdja sdfa jdfa; dkajsd;fkadfja"
+    },
+    {
+      "p": "kdkdk kjfs jskd flsjdkf sflksjf slkfdj sfdkkl lsdjfsk fsdjflskfds jsdlfks"
+    }
+  ],
+  "personalize": [
+    {
+      "p": "There are many names one could give to the thing Ernest Holmes calls 'It'.  Many refer to it as God, Source, or simply the Universe."
+    },
+    {
+      "p": "This section gives you a chance to personalize your power."
+    }
+  ]
+}

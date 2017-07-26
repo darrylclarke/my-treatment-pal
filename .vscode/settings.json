@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "files.exclude": {
+    // include the defaults from VS Code
+    "**/.git": true,
+    "**/.DS_Store": true,
+    // exclude .css files
+    "**/*.css": {
+      "when": "$(basename).scss"
+    }
+  },
+  "prettier.printWidth": 95,
+  "editor.formatOnSave": true
+
+}

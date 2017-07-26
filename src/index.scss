@@ -1,0 +1,16 @@
+@import "./shared/variables";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  // background-color: red;
+  background-image: url("images/topography.png");
+
+
+}
+.main-app-container {
+  background-color: whitesmoke;
+  margin-top: $navbar-height;
+  height: calc(100vh - #{$navbar-height});
+}

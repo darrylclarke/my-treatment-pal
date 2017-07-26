@@ -1,0 +1,16 @@
+@import "../shared/variables";
+// @import "../shared/colours";
+
+.info-page{
+  &__over-heading {
+    color: white;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    margin: 5px 0 15px 0;
+  }
+  &__heading {
+    text-align: center;
+    margin: 5px 0 15px 0;
+  } 
+}

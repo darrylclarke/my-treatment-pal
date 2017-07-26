@@ -1,0 +1,21 @@
+@import "../shared/variables";
+
+.content-page {
+}
+
+.paragraph {
+  padding-left: 12px;
+  padding-right: 12px;
+
+  &.quote {
+    font-style: italic;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .my-power {
+    font-weight: bold;
+    font-style: italic;
+
+  }
+}

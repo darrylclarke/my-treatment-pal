@@ -1,0 +1,30 @@
+@import "../shared/variables";
+
+.five-steps {
+  $active-heading-height: 60px;
+
+  &__heading {
+    margin: 5px 0 15px 0;
+  }
+
+  &__active-heading {
+    background-color: paleturquoise;
+    height: $active-heading-height;
+    text-align: center;
+    padding-top: 3px;
+  }
+
+  &__chevron {
+    position: absolute;
+    top: 90px;
+    right: 2px;
+    // text-align: right;
+    // padding-right: 5px;
+    // padding-bottom: 2px;
+  }
+
+  &__help-expanded {
+    min-height: calc(100vh - #{$five-steps-top-space});
+    background-color: antiquewhite;
+  }
+}

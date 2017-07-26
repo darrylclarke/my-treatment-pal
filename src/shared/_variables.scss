@@ -1,0 +1,25 @@
+$color0: #f18d9e;
+$color1: rgba(0, 109, 142, 1);
+$color2: rgba(255, 196, 40, 1);
+$color3: rgba(215, 38, 56, 1);
+$color4: rgba(12, 10, 62, 1);
+$color5: rgba(123, 30, 122, 1);
+$color6: #de7a22;
+$color7: #a2c523;
+$color8: #7d4427;
+$color9: #486B00;
+$opacity-amount: 0.50;
+$list: #f18d9e,  rgba(0, 109, 142, 1),  rgba(255, 196, 40, 1),  rgba(215, 38, 56, 1),  rgba(12, 10, 62, 1),  rgba(123, 30, 122, 1),  #de7a22,  #a2c523,  #7d4427,  #486B00;
+
+$navbar-height: 50px;
+$progress-bar-height: 25px;
+$five-steps-top-space: 80px;
+$info-card-height: 75px;
+$bottom-menu-height: #{7*45}px;
+$bottom-menu-height-negative: -#{7*45}px;
+$side-menu-width: 200px;
+$side-menu-width-negative: -200px;
+
+$menu-item-height: 45px;
+$menu-colour: antiquewhite;
+$menu-selected-colour: darken($menu-colour, 15%);

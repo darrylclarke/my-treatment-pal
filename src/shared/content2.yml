@@ -1,0 +1,34 @@
+behindTheLaw:
+  - page: "alpha"
+    title: "Alpha"
+    colour: 1
+    content:
+      heading: Alpha Page
+      body: 
+        - p: It was the best of times
+        - p: It was the worst of times
+        - h2: A heading
+        - p: Wrap it up
+
+  - page: "beta"
+    title: "Beta"
+    colour: 2
+    content:
+      heading: Beta Page
+      body: 
+        - p: name should be something similar to 
+        - p: Currently the Modify Account view is only available if the
+        - h2: Another heading
+        - p: Wrap it up
+
+  - page: "gamma"
+    title: "Gamma"
+    colour: 3
+    content:
+      heading: Gamma Page
+      body: 
+        - p: declaration files for the library to provide rich Intellisense. Most common
+        - p: presence of a jsconfig.json file in a directory indicates that the directory is the root of a JavaScript project. jsconfig.json specifies the
+        - h2: JavaScript Project (jsconfig.json)
+        - p:  If you are using Visual Studio Code 1.8+, you can alternately explicitly list packages to acquire type declaration files for in your jsconfig.json.
+
